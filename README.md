@@ -1,1 +1,1 @@
-# CellSamplingGeometry
+# CellSamplingDistribution
